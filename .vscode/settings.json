@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "writeln"
+    ],
+    "workbench.colorCustomizations": {
+      "commandCenter.border": "#e7e7e799",
+      "sash.hoverBorder": "#6033a9",
+      "tab.activeBorder": "#6033a9",
+      "titleBar.activeBackground": "#4a2782",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.border": "#4a2782",
+      "titleBar.inactiveBackground": "#4a278299",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#4a2782"
+}
